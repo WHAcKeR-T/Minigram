@@ -1,6 +1,6 @@
 # Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query
 
-[![Social Media](https://github.com/WHAcKeR-T/Minigram/blob/main/Screenshot.png)]
+![Social Media](https://github.com/WHAcKeR-T/Minigram/blob/main/Screenshot.png)
 
 ## Live preview:
 
