@@ -3,6 +3,7 @@
 ![Social Media](https://github.com/WHAcKeR-T/Minigram/blob/main/Screenshot.png)
 
 ## Live preview:
+https://minigram-sand.vercel.app
 
 
 ## Summary
