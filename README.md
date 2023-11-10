@@ -1,12 +1,9 @@
 # Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query
 
-[![Social Media](https://github.com/WHAcKeR-T/Minigram/blob/main/Screenshot.png)]
+![Social Media](https://github.com/WHAcKeR-T/Minigram/blob/main/Screenshot.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
+## Live preview:
 
-## Next.js 13 eBook & Course
-
-📚 https://resource.jsmastery.pro/nextjs-guide
 
 ## Summary
 
