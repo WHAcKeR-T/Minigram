@@ -7,7 +7,6 @@ export type INavLink = {
   export type IUpdateUser = {
     userId: string;
     name: string;
-    bio: string;
     imageId: string;
     imageUrl: URL | string;
     file: File[];

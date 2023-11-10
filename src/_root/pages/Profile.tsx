@@ -112,9 +112,6 @@ const Profile = () => {
               />
             </div>
 
-            <p className="small-medium md:base-medium text-center xl:text-left mt-7 max-w-screen-sm">
-              {currentUser.bio}
-            </p>
           </div>
 
           <div className="flex justify-center gap-4">
